@@ -1,6 +1,6 @@
 # personal information
 
-[Include a logo or banner image if applicable]
+[x]
 
 ## Overview
 
