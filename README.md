@@ -1,6 +1,6 @@
-# Project
+# Rigid-Flex PCB Optimization
 
-[Bio-Iot]
+[RF PCB Design]
 
 ## Overview
 
